@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/CMakeFiles/bootloader
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/CMakeFiles/bootloader.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Chotika/Desktop/IoT_Workspace/ESP32_WiFi_Provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
